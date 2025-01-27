@@ -1,0 +1,15 @@
+
+div {
+    width: 3000px; 
+    height: 100px; 
+    background-image: url(img/pattern.png);
+    background-color:rgb(95, 95, 243) ;
+    background-size: contain;
+    }
+
+#logo{
+    width:auto ;
+    height:60% ;
+    margin-top: 30px ;
+
+}
